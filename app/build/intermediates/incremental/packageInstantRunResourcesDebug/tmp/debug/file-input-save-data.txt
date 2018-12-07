@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Dec 01 17:17:11 IST 2018
+0.baseType=DIRECTORY
+0.base=/home/shrinidhikr/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+0.path=crashlytics-build.properties
+0.set=ASSET
+count=1

@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/shrinidhikr/AndroidStudioProjects/Friendly  Chat/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/shrinidhikr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1d2ce483c2ada3f3224a2f1e924ee46e/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/shrinidhikr/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b49a5630829a281c69d36ef55bb7de18/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
