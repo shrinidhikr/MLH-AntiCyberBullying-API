@@ -157,7 +157,7 @@ public class MainActivity extends AppCompatActivity {
                                    Log.d("Response api: ", response+"boo");
                                    responsing=response;
                                    Log.e("responsing",responsing);
-                                   if(responsing == "Not bullying")
+                                   if(responsing.equals("Not bullying "))
                                    {
                                        Log.e("responsingnotbully",responsing);
                                        FriendlyMessage friendlyMessage = new FriendlyMessage(mMessageEditText.getText().toString(), mUsername, null);
