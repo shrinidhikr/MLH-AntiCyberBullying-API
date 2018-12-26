@@ -153,13 +153,10 @@ public class MainActivity extends AppCompatActivity {
                     public void onResponse(String response) {
 
                                try {
-                                   String responsing;
-                                   Log.d("Response api: ", response+"boo");
-                                   responsing=response;
-                                   Log.e("responsing",responsing);
-                                   if(responsing.equals("Not bullying "))
+                                   Log.e("responsing",response);
+                                   if(response.equals("Not bullying "))
                                    {
-                                       Log.e("responsingnotbully",responsing);
+                                       Log.e("responsingnotbully",response);
                                        FriendlyMessage friendlyMessage = new FriendlyMessage(mMessageEditText.getText().toString(), mUsername, null);
                                        mMessagesDatabaseReference.push().setValue(friendlyMessage);
                                        mMessageEditText.setText("");
