@@ -11,6 +11,6 @@ Hosted by GitHub at Ramaiah Institute Of Technology.__
 
 Team-Mates:
 * [Mohammed Sahil](https://github.com/mohedsahil)
-* [Shahsank U](https://github.com/Shashank-U)
+* [Shashank U](https://github.com/Shashank-U)
 * [Vivek V Hathwar](https://github.com/vivekhathwar)
 * [Sneha V](https://github.com/snehavishwanatha)
