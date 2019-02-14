@@ -8,6 +8,7 @@ Hosted by GitHub at Ramaiah Institute Of Technology.__
 * Built a Machine Learning Model (Random Forest Classifier) and used NLTK library in Python to identify abusive content.
 * Used Flask to create REST API for our model.
 * Built a simple chatting app using Android Studio and Firebase Realtime Database to demonstrate the application and use of our API.
+
 Youtube project demo link - https://www.youtube.com/watch?v=wDGoyv_EYDk
 
 Team-Mates:
