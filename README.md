@@ -9,6 +9,7 @@ Hosted by GitHub at Ramaiah Institute Of Technology.__
 * Used Flask to create REST API for our model.
 * Built a simple chatting app using Android Studio and Firebase Realtime Database to demonstrate the application and use of our API.
 Youtube project demo link - https://www.youtube.com/watch?v=wDGoyv_EYDk
+
 Team-Mates:
 * [Mohammed Sahil](https://github.com/mohedsahil)
 * [Shashank U](https://github.com/Shashank-U)
